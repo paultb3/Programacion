@@ -1,0 +1,10 @@
+Planta 1:
+Nombre: orquideas
+Cantidad: 20
+Precios: 
+3.5
+El pago total es : 703.6
+El pago total es : 723.6
+El pago total es : 72
+-----------------------------
+

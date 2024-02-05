@@ -25,7 +25,7 @@ int main()
         getline(cin, Vector_Fruit[i].name);
         cout << "ingrese el precio: " << endl;
         cin >> Vector_Fruit[i].price;
-        Vector_Fruit
+        
     }
     return 0;
 }
